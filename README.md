@@ -19,5 +19,5 @@ The player has up to 3 attempts for each question, and their final score is disp
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/joeseverino/math-quiz.git
+   git clone https://github.com/joeseverino/math-quiz-game.git
    cd math-quiz
